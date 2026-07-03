@@ -175,4 +175,4 @@ simonoluwasegunvictor@gmail.com
 
 When I'm not building software, I'm exploring software architecture, improving developer experiences, and building scalable solutions that solve real business problems.
 
-> *"Building software isn't just about writing code—it's about solving real problems with clean, scalable solutions."*
+> *"Building software isn't just about writing code, it's about solving real problems with clean, scalable solutions."*
