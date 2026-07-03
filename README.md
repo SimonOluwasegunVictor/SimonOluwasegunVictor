@@ -151,10 +151,6 @@ Laravel • PHP • Vue.js • MySQL • Tailwind CSS
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SimonOluwasegunVictor&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=SimonOluwasegunVictor&theme=github-dark&hide_border=true"/>
 
